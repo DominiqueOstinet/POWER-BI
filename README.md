@@ -9,9 +9,8 @@ Selon les visuels prévus les tables ont été importées en totalité ou partie
 
 Les données ont été analysées et préparées dans Power Query avant la réalisation des différents visuels.
 
-https://github.com/DominiqueOstinet/POWER-BI/blob/main/accueil.png
- 
-![DB 1-2](https://github.com/DominiqueOstinet/POWER-BI/blob/main/DB 1-2.png)
+
+![DB 1-2](https://github.com/DominiqueOstinet/POWER-BI/blob/main/DB%201-2.png)
 
 ![DB 2-2](https://github.com/DominiqueOstinet/POWER-BI/blob/main/DB%202-2.png))
 
