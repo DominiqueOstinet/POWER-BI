@@ -11,4 +11,5 @@ Les données ont été analysées et préparées dans Power Query avant la réal
 
 https://github.com/DominiqueOstinet/POWER-BI/blob/main/accueil.png
  
-![accueil](https://github.com/DominiqueOstinet/POWER-BI/blob/main/accueil.png)
+![DB 1-2](https://github.com/DominiqueOstinet/POWER-BI/blob/main/DB 1-2.png)
+![DB 2-2](https://github.com/DominiqueOstinet/POWER-BI/blob/main/DB 2-2.png)
