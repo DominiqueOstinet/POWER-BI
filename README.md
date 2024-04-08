@@ -8,7 +8,8 @@ Le script a été éxécuté sur MySQL WorkBench.
 
 Après une revue des données disponibles, les tables ont été importées dans PowerBI.
 
-Selon les visuels envisagés les tables ont été importées en totalité ou partiellement. Des requètes SQL plus spécifiques ont été rédigées pour certains visuels comme la courbe de Lorenz.
+Selon les visuels envisagés, les tables ont été importées en totalité ou partiellement. Des requètes SQL plus spécifiques ont été rédigées pour certains visuels comme la courbe de Lorenz.
+
 La courbe de Lorenz sur l'onglet 'performances clients' a été générée à l'aide d'un script Python intégré à un visuel. 
 
 Les données ont été analysées et préparées dans Power Query avant la réalisation des différents visuels:
